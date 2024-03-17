@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: total-price-service
+server:
+  port: 8081
